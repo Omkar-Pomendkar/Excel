@@ -22,4 +22,4 @@ Excel Data Cleaning Techniques
 20)	Calender to Row – unpivot Column
 21)	Web Scraping by Entering Link basic Anonymous
 22)	Filter XML helps us to Extract Text from Sentences
-
+23) IN Options add in Data Analysis Tools Kit 
